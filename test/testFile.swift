@@ -9,5 +9,5 @@
 import Foundation
 
 class Test {
-    var testVat: String = "test"
+    var testVat: String = "testString"
 }
