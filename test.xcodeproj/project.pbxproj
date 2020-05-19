@@ -15,6 +15,7 @@
 		527C53C0247408330070F943 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 527C53BE247408330070F943 /* LaunchScreen.storyboard */; };
 		527C53CB247408340070F943 /* testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 527C53CA247408340070F943 /* testTests.swift */; };
 		527C53D6247408340070F943 /* testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 527C53D5247408340070F943 /* testUITests.swift */; };
+		527C53E424740AE10070F943 /* testFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 527C53E324740AE10070F943 /* testFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		527C53D1247408340070F943 /* testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		527C53D5247408340070F943 /* testUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testUITests.swift; sourceTree = "<group>"; };
 		527C53D7247408340070F943 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		527C53E324740AE10070F943 /* testFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				527C53BC247408330070F943 /* Assets.xcassets */,
 				527C53BE247408330070F943 /* LaunchScreen.storyboard */,
 				527C53C1247408330070F943 /* Info.plist */,
+				527C53E324740AE10070F943 /* testFile.swift */,
 			);
 			path = test;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				527C53B8247408320070F943 /* ViewController.swift in Sources */,
+				527C53E424740AE10070F943 /* testFile.swift in Sources */,
 				527C53B4247408320070F943 /* AppDelegate.swift in Sources */,
 				527C53B6247408320070F943 /* SceneDelegate.swift in Sources */,
 			);
